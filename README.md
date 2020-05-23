@@ -16,6 +16,12 @@
 - 源站：https://cdnjs.cloudflare.com/
 - 替换为：https://c.0wo.top/
 
+### Gravatar头像
+- 源站：https://secure.gravatar.com/
+- 替换为：https://g.0wo.top/
+
+如：https://g.0wo.top/avatar/28e15c53571d081281973ca31ff6161d
+
 ## 小工具
 
 - https://h.0wo.top/ - 纯净的浏览器主页

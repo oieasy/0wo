@@ -63,7 +63,7 @@
 - 源站：https://ajax.googleapis.com/
 - 替换为：https://a.0wo.top/
 
-（国内暂无线路，不推荐，建议使用隔壁https://ajax.loli.net/）
+（国内暂无线路，不推荐，建议使用隔壁https://ajax.loli.net/
 
 
 如：https://g.0wo.top/avatar/28e15c53571d081281973ca31ff6161d

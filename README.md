@@ -8,7 +8,7 @@
 注意：0wo库无法保证100%的稳定性，不建议用于生产环境中！
 
 ## 架构图
-![0wo架构图](http://0wo.top/image/0wo%E5%85%AC%E5%85%B1%E5%BA%93.jpg)
+![0wo架构图](http://0wo.top/image/0wo架构图.jpg)
 
 ## 公共库
 

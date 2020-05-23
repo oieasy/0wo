@@ -1,5 +1,5 @@
 ## 0wo前端公共库
-![0wo公共库](http://0wo.top/image/0wo公共库.jpg)
+![0wo公共库](https://0wo.top/image/0wo公共库.jpg)
 
 由于某些众所周知的原因，众多海外公共库在中国连接速度较慢，从而影响用户体验。
 
@@ -8,13 +8,13 @@
 注意：0wo库无法保证100%的稳定性，不建议用于生产环境中！
 
 ## 架构图
-![0wo架构图](http://0wo.top/image/0wo架构图.png)
+![0wo架构图](https://0wo.top/image/0wo架构图.png)
 
 ## 公共库
 
 ### CDNJS库
 - 源站：https://cdnjs.cloudflare.com/
-- 替换为：http://c.0wo.top/
+- 替换为：https://c.0wo.top/
 
 ## 小工具
 

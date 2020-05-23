@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 0wo前端公共库
+由于某些众所周知的原因，众多海外公共库在中国连接速度较慢，从而影响用户体验。
 
-You can use the [editor on GitHub](https://github.com/qcminecraft/0wo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+tong's0wo库混合多个云计算厂商，致力于为国内用户提供最好的体验，同时也有其他小工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 公共库
 
-### Markdown
+### CDNJS库
+- 源站：https://cdnjs.cloudflare.com/
+- 替换为：http://c.0wo.top/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 小工具
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qcminecraft/0wo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://h.0wo.top/ - 纯净的浏览器主页
+https://p.0wo.top  - 反代[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)
